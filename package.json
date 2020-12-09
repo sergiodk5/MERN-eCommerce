@@ -1,0 +1,32 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "MERN eCommerce Cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiodk5/MERN-eCommerce.git"
+  },
+  "keywords": [
+    "MERN",
+    "eCommerce",
+    "Cart",
+    "React",
+    "Redux",
+    "Node",
+    "Mongo",
+    "Express"
+  ],
+  "author": "Asterios Patsikas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiodk5/MERN-eCommerce/issues"
+  },
+  "homepage": "https://github.com/sergiodk5/MERN-eCommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
